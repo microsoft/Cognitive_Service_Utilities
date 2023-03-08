@@ -1,0 +1,15 @@
+{
+  "version": "2.0",
+  "logging": {
+    "applicationInsights": {
+      "enableDependencyTracking": true,
+      "enablePerformanceCountersCollection": false
+    },
+    "logLevel": {
+      "AIPlatform.TestingFramework.TestingFrameworkOrchestrator": "Information",
+      "Host.Aggregator": "None",
+      "Host.Results": "Information"
+    }
+  }
+
+}
