@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <!-- configuration elements -->
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <!-- List of environment variables we want to set-->
+      <SpeechConfiguration_SubscriptionKey>SpeechService_SubcriptionKey_Here</SpeechConfiguration_SubscriptionKey>
+      <SpeechConfiguration_Region>SpeechService_SubscriptionRegion_Here</SpeechConfiguration_Region>
+    </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>

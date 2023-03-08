@@ -1,0 +1,13 @@
+# vs code environment
+.vscode/
+
+# vs env
+.vs/
+bin/
+obj/
+
+# testing
+/coverage
+
+# local settings
+/EvaluationFramework/src/local.settings.json
