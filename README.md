@@ -4,7 +4,9 @@ This repo hosts a variety of tools and utilities and E2E soltions and proptypes 
 
 ## Solutions and Utiltities
 
-1. [Offline Speech to Speech Dubbing solution with Human Verification](OfflineDubbing): This is an E2E process that includes Speech to Text (STT), Translation and Text to Speech (TTS) services from Cognitive Services. The pipeline enables intermediate file production, which could be edited by human editors to correct errors at each stage of the pipeline. The pipeline does enable highlighting the potential points where human intervention could make sense, and highlights them in the intermediate file. Details of this pipeline and the appraoches used in this implementation can be found in the [Offline Audio Dubbing Solution Guide](https://learn.microsoft.com/azure/architecture/guide/media/offline-audio-dubbing)
+1. [Offline Speech to Speech Dubbing solution with Human Verification](OfflineDubbing): This is an E2E process that includes Speech to Text (STT), Translation and Text to Speech (TTS) services from Cognitive Services. The pipeline enables intermediate file production, which could be edited by human editors to correct errors at each stage of the pipeline. The pipeline does enable highlighting the potential points where human intervention could make sense, and highlights them in the intermediate file. Details of this pipeline and the appraoches used in this implementation can be found in the Offline Audio Dubbing Solution Guide (pending publishing)
+
+[//]: # (https://learn.microsoft.com/azure/architecture/guide/media/offline-audio-dubbing)
 
 ## Contributing
 
